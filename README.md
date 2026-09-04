@@ -315,7 +315,7 @@ Combos:
 
 ## 3D Printed Enclosure
 
-<img src="./img/macropad-casing.jpg" alt="Macropad Casing" width = 800px>
+<img src="./img/macropad-casing.JPG" alt="Macropad Casing" width = 800px>
 
 
 > **Design Overview:** A custom, low-profile case designed in SolidWorks to house the populated PCB and mechanical switches securely. The enclosure features precise cutouts for the USB-C port, dual rotary encoders, and top-side tactile buttons.
@@ -342,7 +342,7 @@ All 3D printable model files are located in the `/mechanical` folder.
 
 ### 2. Final Assembly
 
-<img src="./img/macropad-casing-exploded.jpg" alt="Macropad Casing" width = 800px>
+<img src="./img/macropad-casing-exploded.JPG" alt="Macropad Casing" width = 800px>
 
 1. **Place PCB in enclosure:** Insert PCB into `macropad-enclosure.stl`.
 2. **Cover Plate:** Place `cover-plate.stl` on top of the PCB to secure it against the enclosure.
